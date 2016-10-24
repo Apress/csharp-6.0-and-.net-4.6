@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb

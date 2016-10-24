@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\SimpleException\bin\Debug\SimpleException.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\SimpleException\bin\Debug\SimpleException.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\SimpleException\bin\Debug\SimpleException.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\SimpleException\obj\Debug\SimpleException.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\SimpleException\obj\Debug\SimpleException.pdb

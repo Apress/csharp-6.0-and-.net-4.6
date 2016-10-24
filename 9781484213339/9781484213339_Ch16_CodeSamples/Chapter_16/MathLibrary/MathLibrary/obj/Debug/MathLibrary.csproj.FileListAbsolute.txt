@@ -1,0 +1,4 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb

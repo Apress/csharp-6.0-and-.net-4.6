@@ -1,0 +1,44 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Fun with Panels!" Height="291" Width="529">
+
+  <!-- This panel establishes the frame of the window -->
+  <DockPanel LastChildFill ="True">
+
+    <!-- Put a Menu and toolbar on the top -->
+    <Menu DockPanel.Dock ="Top" HorizontalAlignment="Left" Background="White">
+      <MenuItem Header="_File">
+        <Separator/>
+        <MenuItem Header ="_Exit" />
+      </MenuItem>
+    </Menu>
+    
+    <!-- Put a simple StatusBar on the bottom-->
+    <StatusBar Name="statBar" DockPanel.Dock ="Bottom" 
+               VerticalAlignment="Bottom" Background="Beige" >
+      <StatusBarItem>
+        <TextBlock>Ready</TextBlock>
+      </StatusBarItem>
+    </StatusBar>
+
+    <!-- Put a StackPanel on the Left-->
+    <StackPanel Background="LightSteelBlue" Orientation ="Vertical" DockPanel.Dock ="Left">
+      <Label Name="lblInstruction" 
+               FontSize="15">Enter Car Information</Label>
+      <Label Name="lblMake">Make</Label>
+      <TextBox Name="txtMake"/>
+      <Label Name="lblColor">Color</Label>
+      <TextBox Name="txtColor"/>
+      <Label Name="lblPetName">Pet Name</Label>
+      <TextBox Name="txtPetName"/>
+      <Button Name="btnOK">OK</Button>
+    </StackPanel>
+
+    <!-- The final area will be a block of text 
+         wrapped in a border -->
+    <Border BorderThickness ="3" BorderBrush ="DarkRed">
+    <TextBlock Background ="LemonChiffon" FontSize ="20">Desktop markup?  I like it!</TextBlock>
+    </Border>
+  </DockPanel>
+</Window>

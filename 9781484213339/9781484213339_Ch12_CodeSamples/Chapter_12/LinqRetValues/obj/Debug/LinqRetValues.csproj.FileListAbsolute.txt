@@ -1,0 +1,10 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqRetValues\bin\Debug\LinqRetValues.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqRetValues\bin\Debug\LinqRetValues.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqRetValues\obj\Debug\LinqRetValues.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqRetValues\obj\Debug\LinqRetValues.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqRetValues\obj\Debug\LinqRetValues.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqRetValues\obj\Debug\LinqRetValues.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqRetValues\bin\Debug\LinqRetValues.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqRetValues\bin\Debug\LinqRetValues.pdb

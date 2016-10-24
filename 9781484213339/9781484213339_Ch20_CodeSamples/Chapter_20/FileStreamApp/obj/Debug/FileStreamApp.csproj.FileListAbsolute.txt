@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\FileStreamApp\bin\Debug\FileStreamApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\FileStreamApp\bin\Debug\FileStreamApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\FileStreamApp\bin\Debug\FileStreamApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\FileStreamApp\obj\Debug\FileStreamApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\FileStreamApp\obj\Debug\FileStreamApp.pdb

@@ -1,0 +1,17 @@
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\bin\Debug\WpfTesterApp.exe.config
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\bin\Debug\WpfTesterApp.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\bin\Debug\WpfTesterApp.pdb
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.csprojResolveAssemblyReference.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\MainWindow.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\App.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp_MarkupCompile.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp_MarkupCompile.lref
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\MainWindow.baml
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.g.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.Properties.Resources.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.csproj.GenerateResource.Cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.pdb
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\bin\Debug\WpfTesterApp.exe.config
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.exe
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfTesterApp\obj\Debug\WpfTesterApp.pdb

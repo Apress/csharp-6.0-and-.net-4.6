@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\VehicleDescriptionAttributeReaderLateBinding.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\VehicleDescriptionAttributeReaderLateBinding.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\VehicleDescriptionAttributeReaderLateBinding.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\VehicleDescriptionAttributeReaderLateBinding\obj\x86\Debug\VehicleDescriptionAttributeReaderLateBinding.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\VehicleDescriptionAttributeReaderLateBinding\obj\x86\Debug\VehicleDescriptionAttributeReaderLateBinding.pdb

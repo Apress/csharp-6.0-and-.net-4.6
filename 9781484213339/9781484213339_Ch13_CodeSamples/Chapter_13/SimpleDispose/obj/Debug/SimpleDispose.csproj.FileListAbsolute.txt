@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleDispose\obj\Debug\SimpleDispose.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleDispose\obj\Debug\SimpleDispose.csprojResolveAssemblyReference.cache

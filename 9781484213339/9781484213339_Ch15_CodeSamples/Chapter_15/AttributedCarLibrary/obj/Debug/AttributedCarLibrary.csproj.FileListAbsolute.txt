@@ -1,0 +1,4 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.pdb

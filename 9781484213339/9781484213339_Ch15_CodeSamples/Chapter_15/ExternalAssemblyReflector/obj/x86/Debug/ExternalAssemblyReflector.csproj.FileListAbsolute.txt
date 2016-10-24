@@ -1,0 +1,4 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExternalAssemblyReflector\obj\x86\Debug\ExternalAssemblyReflector.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExternalAssemblyReflector\obj\x86\Debug\ExternalAssemblyReflector.pdb

@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\CustomConversions\bin\Debug\CustomConversions.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\CustomConversions\bin\Debug\CustomConversions.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\CustomConversions\bin\Debug\CustomConversions.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\CustomConversions\obj\Debug\CustomConversions.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\CustomConversions\obj\Debug\CustomConversions.pdb

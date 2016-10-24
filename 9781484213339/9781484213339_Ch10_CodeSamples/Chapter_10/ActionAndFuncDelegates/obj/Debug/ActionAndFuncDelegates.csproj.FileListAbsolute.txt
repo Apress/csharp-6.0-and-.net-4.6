@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

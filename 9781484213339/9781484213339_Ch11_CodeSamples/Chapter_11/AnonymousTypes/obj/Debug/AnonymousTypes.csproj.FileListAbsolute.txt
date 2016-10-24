@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

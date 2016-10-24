@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Current Inventory of cars!-->
+<?xml-stylesheet href='MyStyles.css' title='Compact' type='text/css'?>
+<Inventory>
+  <Car ID="1">
+    <Color>Green</Color>
+    <Make>BMW</Make>
+    <PetName>Stan</PetName>
+  </Car>
+  <Car ID="2">
+    <Color>Pink</Color>
+    <Make>Yugo</Make>
+    <PetName>Melvin</PetName>
+  </Car>
+</Inventory>

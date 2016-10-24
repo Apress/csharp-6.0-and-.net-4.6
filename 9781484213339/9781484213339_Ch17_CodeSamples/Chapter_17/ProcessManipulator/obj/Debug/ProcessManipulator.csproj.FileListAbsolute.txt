@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ProcessManipulator\obj\Debug\ProcessManipulator.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ProcessManipulator\obj\Debug\ProcessManipulator.pdb

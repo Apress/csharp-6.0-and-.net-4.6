@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\bin\Debug\AutoProps.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\bin\Debug\AutoProps.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\bin\Debug\AutoProps.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\obj\Debug\AutoProps.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\obj\Debug\AutoProps.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache

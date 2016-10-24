@@ -1,0 +1,15 @@
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\bin\Debug\MyXamlPad.exe.config
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\bin\Debug\MyXamlPad.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\bin\Debug\MyXamlPad.pdb
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MainWindow.baml
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MainWindow.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\App.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MyXamlPad_MarkupCompile.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.g.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.Properties.Resources.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.csproj.GenerateResource.Cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.pdb
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\MyXamlPad\bin\Debug\MyXamlPad.exe.config
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\MyXamlPad\obj\Debug\MyXamlPad.pdb

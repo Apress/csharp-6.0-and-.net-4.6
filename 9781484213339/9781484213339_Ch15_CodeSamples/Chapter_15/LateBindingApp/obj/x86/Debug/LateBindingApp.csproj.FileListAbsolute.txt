@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\LateBindingApp\obj\x86\Debug\LateBindingApp.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\LateBindingApp\obj\x86\Debug\LateBindingApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\LateBindingApp\obj\x86\Debug\LateBindingApp.pdb

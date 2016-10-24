@@ -1,0 +1,7 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\bin\Debug\BasicInheritance.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\bin\Debug\BasicInheritance.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\obj\Debug\BasicInheritance.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\obj\Debug\BasicInheritance.pdb

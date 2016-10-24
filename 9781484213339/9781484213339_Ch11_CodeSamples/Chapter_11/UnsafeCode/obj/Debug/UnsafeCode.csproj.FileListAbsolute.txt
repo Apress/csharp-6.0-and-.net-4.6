@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\UnsafeCode\bin\Debug\UnsafeCode.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\UnsafeCode\bin\Debug\UnsafeCode.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\UnsafeCode\bin\Debug\UnsafeCode.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\UnsafeCode\obj\Debug\UnsafeCode.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\UnsafeCode\obj\Debug\UnsafeCode.pdb

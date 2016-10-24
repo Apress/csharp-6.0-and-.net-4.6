@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEvents\bin\Debug\CarEvents.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEvents\bin\Debug\CarEvents.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEvents\bin\Debug\CarEvents.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEvents\obj\Debug\CarEvents.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEvents\obj\Debug\CarEvents.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEvents\obj\Debug\CarEvents.csprojResolveAssemblyReference.cache

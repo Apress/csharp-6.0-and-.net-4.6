@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

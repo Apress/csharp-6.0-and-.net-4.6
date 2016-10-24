@@ -1,0 +1,16 @@
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\bin\Debug\VisualLayoutTesterApp.exe.config
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\bin\Debug\VisualLayoutTesterApp.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\bin\Debug\VisualLayoutTesterApp.pdb
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\MainWindow.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\App.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp_MarkupCompile.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp_MarkupCompile.lref
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\MainWindow.baml
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.g.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.Properties.Resources.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.csproj.GenerateResource.Cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.pdb
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\bin\Debug\VisualLayoutTesterApp.exe.config
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.exe
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter27\Chapter27CodeSamples\VisualLayoutTesterApp\obj\Debug\VisualLayoutTesterApp.pdb

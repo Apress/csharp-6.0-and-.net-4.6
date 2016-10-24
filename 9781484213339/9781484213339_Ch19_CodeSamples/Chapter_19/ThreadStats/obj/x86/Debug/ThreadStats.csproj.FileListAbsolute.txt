@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadStats\bin\Debug\ThreadStats.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadStats\bin\Debug\ThreadStats.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadStats\bin\Debug\ThreadStats.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadStats\obj\x86\Debug\ThreadStats.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadStats\obj\x86\Debug\ThreadStats.pdb

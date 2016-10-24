@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb

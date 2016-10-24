@@ -1,0 +1,96 @@
+﻿@model AutoLotDAL.Models.Inventory
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@*<h2>Create</h2>*@
+<div class="well well-sm"><h1>Add Inventory</h1></div>
+@using (Html.BeginForm(null, null, FormMethod.Post, new { name = "createForm", id = "createForm" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+@*        <h4>Inventory</h4>*@
+        <hr id="openingLine"/>
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Make, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Make, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Make, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Color, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Color, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Color, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PetName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PetName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PetName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default"/>
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button name="mainSubmit" id="mainSubmit" type="submit" class="btn btn-default">
+                    <span class="glyphicon glyphicon-plus"></span>&nbsp;Create
+                </button>
+                &nbsp;|&nbsp;<a href="@Url.Action("Index")"><span class="glyphicon glyphicon-list"></span>&nbsp;Back to list</a>
+            </div>
+        </div>
+
+    </div>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script language="javascript" type="text/javascript">
+        $(function() {
+            'option strict';
+            $('form').on('change', function(e) {
+                $('#createForm').validate();
+                if (!$("#createForm").valid()) {
+                    var errorDiv = $('#errorDiv');
+                    if (errorDiv == undefined || errorDiv.length === 0) {
+                        $('#openingLine').after(
+                            '<div id="errorDiv" class="validation-summary-errors text-danger">' +
+                            '<ul>' +
+                            '<li>An error occurred in the data.  Please check all values and try again.</li>' +
+                            '</ul>' +
+                            '</div>');
+                    }
+                    return false;
+                } else {
+                    $('#errorDiv').remove();
+                }
+            });
+            $('#mainSubmit').click(function() {
+                $('#createForm').validate();
+                if (!$("#createForm").valid()) {
+                    return false;
+                }
+                document.createForm.submit();
+                return false;
+            });
+        });
+
+    </script>
+}

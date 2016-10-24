@@ -1,0 +1,7 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\bin\Debug\CommonSnappableTypes.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\bin\Debug\CommonSnappableTypes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb

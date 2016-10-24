@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.pdb

@@ -1,0 +1,1 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\VisualTypeDesignerApp\bin\Debug\VisualTypeDesignerApp.exe.config

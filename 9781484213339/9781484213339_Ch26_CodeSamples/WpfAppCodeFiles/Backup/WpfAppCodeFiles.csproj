@@ -1,0 +1,23 @@
+﻿<Project DefaultTargets="Build" xmlns=
+  "http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <RootNamespace>WpfAppAllXaml</RootNamespace>
+    <AssemblyName>WpfAppAllXaml</AssemblyName>
+    <OutputType>winexe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include=”System.Xaml” />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="MyApp.xaml" />
+      <Compile Include = "MainWindow.xaml.cs" />
+      <Compile Include = "MyApp.xaml.cs" />
+      <Page Include="MainWindow.xaml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildBinPath)\Microsoft.WinFX.targets" />
+</Project>

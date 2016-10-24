@@ -1,0 +1,18 @@
+﻿<Window x:Class="VisualLayoutTesterApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisualLayoutTesterApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas>
+        <WrapPanel Canvas.Left="79" Orientation="Vertical" Canvas.Top="36" Width="212">
+            <Button x:Name="button1" Content="Button" Width="75"/>
+            <Button x:Name="button" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+            <Calendar/>
+
+        </WrapPanel>
+
+    </Canvas>
+</Window>

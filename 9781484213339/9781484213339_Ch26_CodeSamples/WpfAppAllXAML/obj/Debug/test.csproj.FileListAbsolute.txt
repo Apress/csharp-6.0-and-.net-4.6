@@ -1,0 +1,10 @@
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\WpfAppAllXaml.exe
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\WpfAppAllXaml.pdb
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\MainWindow.baml
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\MainWindow.g.cs
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\App.g.cs
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\WpfAppAllXaml_MarkupCompile.cache
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\obj\Debug\WpfAppAllXaml.g.resources
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\bin\Debug\WpfAppAllXaml.exe
+C:\Users\Philip\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\bin\Debug\WpfAppAllXaml.pdb

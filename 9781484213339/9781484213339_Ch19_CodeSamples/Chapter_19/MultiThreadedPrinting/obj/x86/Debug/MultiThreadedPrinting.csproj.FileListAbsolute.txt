@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\MultiThreadedPrinting\obj\x86\Debug\MultiThreadedPrinting.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\MultiThreadedPrinting\obj\x86\Debug\MultiThreadedPrinting.pdb

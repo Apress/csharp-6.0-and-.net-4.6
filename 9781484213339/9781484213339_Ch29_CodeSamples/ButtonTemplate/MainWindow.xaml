@@ -1,0 +1,31 @@
+﻿<Window x:Class="ButtonTemplate.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:ButtonTemplate"
+		mc:Ignorable="d"
+		Title="Fun with Templates" Height="350" Width="525">
+	<StackPanel>
+		<Button x:Name="myButton" Width="100" Height="100"
+		  Background="Red" Content="Howdy!"
+		  Click="myButton_Click"
+		  Style="{StaticResource RoundButtonStyle}" />
+		<Button x:Name="myButton2" Width="100" Height="100"
+		  Background="LightGreen" Content="Cancel!"
+		  Style="{StaticResource RoundButtonStyle}" />
+		<Button x:Name="myButton3" Width="100" Height="100"
+		  Background="Yellow" Content="Format"
+		  Style="{StaticResource RoundButtonStyle}" />
+		<Button x:Name="myButton4" Width="100" Height="100" Background="Yellow"
+		Style="{StaticResource RoundButtonStyle}">
+			<Button.Content>
+				<ListBox Height="50" Width="75">
+					<ListBoxItem>Hello</ListBoxItem>
+					<ListBoxItem>Hello</ListBoxItem>
+					<ListBoxItem>Hello</ListBoxItem>
+				</ListBox>
+			</Button.Content>
+		</Button>
+	</StackPanel>
+</Window>

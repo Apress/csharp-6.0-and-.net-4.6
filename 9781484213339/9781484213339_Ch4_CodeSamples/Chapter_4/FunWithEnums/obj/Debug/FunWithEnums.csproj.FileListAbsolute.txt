@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\obj\Debug\FunWithEnums.pdb

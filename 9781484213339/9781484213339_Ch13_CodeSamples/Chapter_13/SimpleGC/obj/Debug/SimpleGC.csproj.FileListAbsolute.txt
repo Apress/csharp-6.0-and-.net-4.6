@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleGC\bin\Debug\SimpleGC.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleGC\bin\Debug\SimpleGC.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleGC\bin\Debug\SimpleGC.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleGC\obj\Debug\SimpleGC.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleGC\obj\Debug\SimpleGC.pdb

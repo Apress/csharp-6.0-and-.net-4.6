@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\BinaryWriterReader\bin\Debug\BinaryWriterReader.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\BinaryWriterReader\bin\Debug\BinaryWriterReader.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\BinaryWriterReader\bin\Debug\BinaryWriterReader.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\BinaryWriterReader\obj\Debug\BinaryWriterReader.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\BinaryWriterReader\obj\Debug\BinaryWriterReader.pdb

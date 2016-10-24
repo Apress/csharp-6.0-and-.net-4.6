@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache

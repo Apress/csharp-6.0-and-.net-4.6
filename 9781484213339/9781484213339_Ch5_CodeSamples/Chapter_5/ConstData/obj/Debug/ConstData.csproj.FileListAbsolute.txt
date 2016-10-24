@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache

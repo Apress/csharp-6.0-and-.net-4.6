@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

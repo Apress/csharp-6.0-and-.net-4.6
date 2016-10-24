@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.pdb

@@ -1,0 +1,11 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csprojResolveAssemblyReference.cache

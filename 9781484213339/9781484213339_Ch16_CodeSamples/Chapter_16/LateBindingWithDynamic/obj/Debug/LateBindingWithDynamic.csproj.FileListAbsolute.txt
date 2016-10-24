@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\LateBindingWithDynamic\bin\Debug\LateBindingWithDynamic.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\LateBindingWithDynamic\bin\Debug\LateBindingWithDynamic.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\LateBindingWithDynamic\bin\Debug\LateBindingWithDynamic.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\LateBindingWithDynamic\obj\Debug\LateBindingWithDynamic.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\LateBindingWithDynamic\obj\Debug\LateBindingWithDynamic.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_16\LateBindingWithDynamic\obj\Debug\LateBindingWithDynamic.csprojResolveAssemblyReference.cache

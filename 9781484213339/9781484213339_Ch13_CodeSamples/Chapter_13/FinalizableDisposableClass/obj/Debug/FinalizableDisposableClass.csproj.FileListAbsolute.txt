@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\EmployeeApp\obj\Debug\EmployeeApp.pdb

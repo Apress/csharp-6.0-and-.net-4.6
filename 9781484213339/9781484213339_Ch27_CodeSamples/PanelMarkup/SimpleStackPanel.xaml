@@ -1,0 +1,16 @@
+<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Fun with Panels!" Height="313" Width="532">
+  <StackPanel Background="LightSteelBlue" Orientation ="Vertical">
+    <Label Name="lblInstruction"
+           FontSize="15" Content="Enter Car Information"/>
+    <Label Name="lblMake" Content="Make"/>
+    <TextBox Name="txtMake"/>
+    <Label Name="lblColor" Content="Color"/>
+    <TextBox Name="txtColor"/>
+    <Label Name="lblPetName" Content="Pet Name"/>
+    <TextBox Name="txtPetName"/>
+    <Button Name="btnOK" Width ="80" Content="OK"/>
+  </StackPanel>
+</Window>

@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SimpleMultiThreadApp\obj\x86\Debug\SimpleMultiThreadApp.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SimpleMultiThreadApp\obj\x86\Debug\SimpleMultiThreadApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SimpleMultiThreadApp\obj\x86\Debug\SimpleMultiThreadApp.pdb

@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

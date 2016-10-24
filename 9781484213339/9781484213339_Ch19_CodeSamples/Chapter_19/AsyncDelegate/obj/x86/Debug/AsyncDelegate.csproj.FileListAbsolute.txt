@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AsyncDelegate\bin\Debug\AsyncDelegate.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb

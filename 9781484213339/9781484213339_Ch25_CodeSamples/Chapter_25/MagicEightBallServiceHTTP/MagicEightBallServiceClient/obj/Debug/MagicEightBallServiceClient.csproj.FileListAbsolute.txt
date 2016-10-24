@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MagicEightBallServiceHTTP\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MagicEightBallServiceHTTP\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MagicEightBallServiceHTTP\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MagicEightBallServiceHTTP\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MagicEightBallServiceHTTP\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.pdb

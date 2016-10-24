@@ -1,0 +1,4 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ExtendableApp\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb

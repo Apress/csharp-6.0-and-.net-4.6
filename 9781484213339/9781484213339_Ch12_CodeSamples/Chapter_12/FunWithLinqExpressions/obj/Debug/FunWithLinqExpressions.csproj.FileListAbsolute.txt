@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

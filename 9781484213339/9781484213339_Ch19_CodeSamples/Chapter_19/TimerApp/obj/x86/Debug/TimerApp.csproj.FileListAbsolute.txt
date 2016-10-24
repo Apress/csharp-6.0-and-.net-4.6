@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\TimerApp\bin\Debug\TimerApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\TimerApp\bin\Debug\TimerApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\TimerApp\bin\Debug\TimerApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\TimerApp\obj\x86\Debug\TimerApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\TimerApp\obj\x86\Debug\TimerApp.pdb

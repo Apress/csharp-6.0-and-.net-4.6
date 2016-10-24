@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.pdb

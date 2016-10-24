@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_18\DynamicAsmBuilder\bin\Debug\DynamicAsmBuilder.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_18\DynamicAsmBuilder\bin\Debug\DynamicAsmBuilder.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_18\DynamicAsmBuilder\bin\Debug\DynamicAsmBuilder.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_18\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_18\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_18\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.pdb

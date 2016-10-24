@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\MyTypeViewer\bin\Debug\MyTypeViewer.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\MyTypeViewer\bin\Debug\MyTypeViewer.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\MyTypeViewer\obj\x86\Debug\MyTypeViewer.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\MyTypeViewer\obj\x86\Debug\MyTypeViewer.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\MyTypeViewer\obj\x86\Debug\MyTypeViewer.pdb

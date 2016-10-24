@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\SimpleIndexer\bin\Debug\SimpleIndexer.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\SimpleIndexer\bin\Debug\SimpleIndexer.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\SimpleIndexer\bin\Debug\SimpleIndexer.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\SimpleIndexer\obj\Debug\SimpleIndexer.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\SimpleIndexer\obj\Debug\SimpleIndexer.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\SimpleIndexer\obj\Debug\SimpleIndexer.pdb

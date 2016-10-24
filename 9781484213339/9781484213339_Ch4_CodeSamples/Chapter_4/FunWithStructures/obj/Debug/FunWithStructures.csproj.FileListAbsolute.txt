@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\obj\Debug\FunWithStructures.pdb

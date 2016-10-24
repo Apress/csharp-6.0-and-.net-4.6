@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojResolveAssemblyReference.cache

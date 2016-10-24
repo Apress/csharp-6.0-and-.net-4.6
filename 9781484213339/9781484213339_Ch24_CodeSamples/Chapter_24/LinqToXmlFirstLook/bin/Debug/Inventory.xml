@@ -1,0 +1,7 @@
+<Inventory>
+  <Car ID="1000">
+    <PetName>Jimbo</PetName>
+    <Color>Red</Color>
+    <Make>Ford</Make>
+  </Car>
+</Inventory>

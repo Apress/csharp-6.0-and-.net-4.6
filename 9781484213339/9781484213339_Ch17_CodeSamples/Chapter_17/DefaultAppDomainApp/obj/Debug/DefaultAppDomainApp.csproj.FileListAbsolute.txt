@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csprojResolveAssemblyReference.cache

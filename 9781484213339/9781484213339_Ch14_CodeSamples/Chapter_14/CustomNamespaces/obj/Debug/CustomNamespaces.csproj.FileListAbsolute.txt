@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CustomNamespaces\bin\Debug\CustomNamespaces.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CustomNamespaces\obj\Debug\CustomNamespaces.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CustomNamespaces\bin\Debug\CustomNamespaces.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CustomNamespaces\bin\Debug\CustomNamespaces.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CustomNamespaces\obj\Debug\CustomNamespaces.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CustomNamespaces\obj\Debug\CustomNamespaces.pdb

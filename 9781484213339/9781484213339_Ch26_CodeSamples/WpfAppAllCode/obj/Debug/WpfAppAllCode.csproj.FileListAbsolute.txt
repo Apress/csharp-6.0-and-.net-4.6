@@ -1,0 +1,6 @@
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllCode\bin\Debug\WpfAppAllCode.exe.config
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllCode\bin\Debug\WpfAppAllCode.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllCode\bin\Debug\WpfAppAllCode.pdb
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllCode\obj\Debug\WpfAppAllCode.csprojResolveAssemblyReference.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllCode\obj\Debug\WpfAppAllCode.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllCode\obj\Debug\WpfAppAllCode.pdb

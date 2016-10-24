@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_17\ObjectContextApp\obj\Debug\ObjectContextApp.pdb

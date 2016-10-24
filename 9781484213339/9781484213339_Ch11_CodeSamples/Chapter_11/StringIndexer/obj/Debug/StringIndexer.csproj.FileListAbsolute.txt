@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\StringIndexer\bin\Debug\StringIndexer.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\StringIndexer\bin\Debug\StringIndexer.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\StringIndexer\bin\Debug\StringIndexer.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\StringIndexer\obj\Debug\StringIndexer.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_11\StringIndexer\obj\Debug\StringIndexer.pdb

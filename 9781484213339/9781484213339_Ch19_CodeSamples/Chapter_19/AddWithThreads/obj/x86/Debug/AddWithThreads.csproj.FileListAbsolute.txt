@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AddWithThreads\bin\Debug\AddWithThreads.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AddWithThreads\bin\Debug\AddWithThreads.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AddWithThreads\bin\Debug\AddWithThreads.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AddWithThreads\obj\x86\Debug\AddWithThreads.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\AddWithThreads\obj\x86\Debug\AddWithThreads.pdb

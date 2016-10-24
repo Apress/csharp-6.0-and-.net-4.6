@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ICloneableExample\bin\Debug\ICloneableExample.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ICloneableExample\bin\Debug\ICloneableExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ICloneableExample\bin\Debug\ICloneableExample.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ICloneableExample\obj\Debug\ICloneableExample.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ICloneableExample\obj\Debug\ICloneableExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ICloneableExample\obj\Debug\ICloneableExample.pdb

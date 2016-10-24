@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\ConstructingXmlDocs\bin\Debug\ConstructingXmlDocs.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\ConstructingXmlDocs\bin\Debug\ConstructingXmlDocs.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\ConstructingXmlDocs\bin\Debug\ConstructingXmlDocs.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\ConstructingXmlDocs\obj\x86\Debug\ConstructingXmlDocs.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\ConstructingXmlDocs\obj\x86\Debug\ConstructingXmlDocs.pdb

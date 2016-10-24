@@ -1,0 +1,4 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\SharedAsmReflector\bin\Debug\SharedAsmReflector.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\SharedAsmReflector\obj\x86\Debug\SharedAsmReflector.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\SharedAsmReflector\obj\x86\Debug\SharedAsmReflector.pdb

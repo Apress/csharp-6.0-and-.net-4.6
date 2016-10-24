@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\DirectoryApp\obj\Debug\DirectoryApp.pdb

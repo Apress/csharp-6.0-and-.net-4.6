@@ -1,0 +1,22 @@
+﻿<Window x:Class="MyXamlPad.MainWindow"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  Title="My Custom XAML Editor"
+  Height="338" Width="1041"
+  Loaded="Window_Loaded" Closed="Window_Closed"
+  WindowStartupLocation="CenterScreen">
+
+    <!-- You will use a DockPanel, not a Grid -->
+    <DockPanel LastChildFill="True" >
+
+        <!-- This button will launch a window with defined XAML -->
+        <Button DockPanel.Dock="Top" Name = "btnViewXaml" Width="100" Height="40"
+            Content ="View Xaml" Click="btnViewXaml_Click" />
+
+        <!-- This will be the area to type within -->
+        <TextBox AcceptsReturn ="True" Name ="txtXamlData"
+             FontSize ="14" Background="Black" Foreground="Yellow"
+             BorderBrush ="Blue" VerticalScrollBarVisibility="Auto"
+             AcceptsTab="True"/>
+    </DockPanel>
+</Window>

@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SyncDelegateReview\bin\Debug\SyncDelegateReview.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SyncDelegateReview\obj\x86\Debug\SyncDelegateReview.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SyncDelegateReview\obj\x86\Debug\SyncDelegateReview.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\SyncDelegateReview\obj\x86\Debug\SyncDelegateReview.pdb

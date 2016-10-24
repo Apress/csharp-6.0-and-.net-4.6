@@ -1,0 +1,10 @@
+<Window 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Fun with Panels!" Height="186" Width="501">
+<StackPanel>
+<Path Stroke="Black" StrokeThickness="3"
+      Data="M 10,75 C 70,15 250,270 300,175 H 240" />
+
+</StackPanel>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\Backup\obj\Debug\SimpleXamlApp.csprojResolveAssemblyReference.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\Backup\obj\Debug\MainWindow.baml
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\Backup\obj\Debug\MainWindow.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\Backup\obj\Debug\MyApp.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\Backup\obj\Debug\SimpleXamlApp_MarkupCompile.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppAllXAML\Backup\obj\Debug\SimpleXamlApp.g.resources

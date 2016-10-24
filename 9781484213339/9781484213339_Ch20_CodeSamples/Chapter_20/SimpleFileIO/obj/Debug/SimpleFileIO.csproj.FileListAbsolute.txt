@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleFileIO\bin\Debug\SimpleFileIO.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleFileIO\bin\Debug\SimpleFileIO.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleFileIO\bin\Debug\SimpleFileIO.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleFileIO\obj\Debug\SimpleFileIO.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleFileIO\obj\Debug\SimpleFileIO.pdb

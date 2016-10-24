@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.pdb

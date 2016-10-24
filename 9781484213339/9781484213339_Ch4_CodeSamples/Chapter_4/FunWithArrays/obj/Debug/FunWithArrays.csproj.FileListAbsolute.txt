@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithArrays\bin\Debug\FunWithArrays.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithArrays\bin\Debug\FunWithArrays.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithArrays\bin\Debug\FunWithArrays.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithArrays\obj\Debug\FunWithArrays.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithArrays\obj\Debug\FunWithArrays.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithArrays\obj\Debug\FunWithArrays.csprojResolveAssemblyReference.cache

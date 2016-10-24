@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleFinalize\obj\Debug\SimpleFinalize.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_13\SimpleFinalize\obj\Debug\SimpleFinalize.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.csprojResolveAssemblyReference.cache

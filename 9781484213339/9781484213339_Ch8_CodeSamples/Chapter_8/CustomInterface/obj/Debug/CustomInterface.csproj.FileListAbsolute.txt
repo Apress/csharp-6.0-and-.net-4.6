@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomInterface\bin\Debug\CustomInterface.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomInterface\obj\Debug\CustomInterface.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomInterface\obj\Debug\CustomInterface.pdb

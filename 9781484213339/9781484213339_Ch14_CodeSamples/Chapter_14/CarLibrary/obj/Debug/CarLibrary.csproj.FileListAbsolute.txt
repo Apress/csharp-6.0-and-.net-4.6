@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CarLibrary\bin\Debug\CarLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CarLibrary\obj\Debug\CarLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_14\CarLibrary\obj\Debug\CarLibrary.pdb

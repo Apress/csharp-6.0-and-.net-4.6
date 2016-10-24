@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ApplyingAttributes\bin\Debug\ApplyingAttributes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ApplyingAttributes\obj\x86\Debug\ApplyingAttributes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_15\ApplyingAttributes\obj\x86\Debug\ApplyingAttributes.pdb

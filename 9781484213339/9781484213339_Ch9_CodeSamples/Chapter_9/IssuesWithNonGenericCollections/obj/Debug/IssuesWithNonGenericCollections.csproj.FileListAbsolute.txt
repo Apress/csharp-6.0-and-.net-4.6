@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.pdb

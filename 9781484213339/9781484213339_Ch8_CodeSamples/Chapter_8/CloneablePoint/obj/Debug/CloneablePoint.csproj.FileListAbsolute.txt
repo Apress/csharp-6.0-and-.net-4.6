@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CloneablePoint\bin\Debug\CloneablePoint.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CloneablePoint\bin\Debug\CloneablePoint.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CloneablePoint\obj\Debug\CloneablePoint.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CloneablePoint\obj\Debug\CloneablePoint.pdb

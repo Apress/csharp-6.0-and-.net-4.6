@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\GenericDelegate\obj\Debug\GenericDelegate.pdb

@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

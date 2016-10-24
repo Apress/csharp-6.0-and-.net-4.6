@@ -1,0 +1,10 @@
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\bin\Debug\WpfAppAllXaml.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\bin\Debug\WpfAppAllXaml.pdb
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\WpfAppAllXaml.csprojResolveAssemblyReference.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\MainWindow.baml
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\MainWindow.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\MyApp.g.cs
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\WpfAppAllXaml_MarkupCompile.cache
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\WpfAppAllXaml.g.resources
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\WpfAppAllXaml.exe
+C:\Users\Japikse\OneDrive\Book\Troelsen\Chapters\C#_6\Chapter26\Chapter26CodeSamples\WpfAppCodeFiles\obj\Debug\WpfAppAllXaml.pdb

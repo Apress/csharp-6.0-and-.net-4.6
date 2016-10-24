@@ -1,0 +1,23 @@
+﻿<!-- Here is your Window definition -->
+<Window x:Class="WpfAppAllXaml.MainWindow"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  Title="A Window built using 100% XAML"
+  Height="200" Width="300"
+  WindowStartupLocation ="CenterScreen">
+    <Window.Content>
+        <!-- This window has a single button as content -->
+        <Button x:Name="btnExitApp" Width="133" Height="24"
+          Content = "Close Window" Click ="btnExitApp_Clicked"/>
+    </Window.Content>
+    <!-- The implementation of your button's Click event handler! -->
+    <x:Code>
+        <![CDATA[
+    private void btnExitApp_Clicked(object sender, RoutedEventArgs e)
+    {
+      this.Close();
+    }
+  ]]>
+    </x:Code>
+
+</Window>

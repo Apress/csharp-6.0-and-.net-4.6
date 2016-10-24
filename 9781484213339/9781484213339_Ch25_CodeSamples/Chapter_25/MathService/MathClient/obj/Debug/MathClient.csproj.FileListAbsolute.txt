@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathClient\bin\Debug\MathClient.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathClient\bin\Debug\MathClient.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathClient\bin\Debug\MathClient.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathClient\obj\Debug\MathClient.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathClient\obj\Debug\MathClient.pdb

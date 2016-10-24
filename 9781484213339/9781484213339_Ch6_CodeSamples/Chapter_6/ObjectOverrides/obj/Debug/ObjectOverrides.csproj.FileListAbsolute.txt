@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

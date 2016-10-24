@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncDelegateReview", "SyncDelegateReview.csproj", "{AE18FDE5-22AB-42BF-8D9C-64D2EA8D7281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE18FDE5-22AB-42BF-8D9C-64D2EA8D7281}.Debug|x86.ActiveCfg = Debug|x86
+		{AE18FDE5-22AB-42BF-8D9C-64D2EA8D7281}.Debug|x86.Build.0 = Debug|x86
+		{AE18FDE5-22AB-42BF-8D9C-64D2EA8D7281}.Release|x86.ActiveCfg = Release|x86
+		{AE18FDE5-22AB-42BF-8D9C-64D2EA8D7281}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

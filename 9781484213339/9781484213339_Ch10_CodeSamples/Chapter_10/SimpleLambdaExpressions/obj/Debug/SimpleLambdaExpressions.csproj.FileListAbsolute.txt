@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb

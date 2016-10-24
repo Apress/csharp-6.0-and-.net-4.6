@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\bin\Debug\ComparableCar.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\bin\Debug\ComparableCar.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\bin\Debug\ComparableCar.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\obj\Debug\ComparableCar.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\obj\Debug\ComparableCar.pdb

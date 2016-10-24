@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

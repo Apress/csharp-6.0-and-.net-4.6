@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

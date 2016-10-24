@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\bin\Debug\SimpleSerialize.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\bin\Debug\SimpleSerialize.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\obj\Debug\SimpleSerialize.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\obj\Debug\SimpleSerialize.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\obj\Debug\SimpleSerialize.pdb

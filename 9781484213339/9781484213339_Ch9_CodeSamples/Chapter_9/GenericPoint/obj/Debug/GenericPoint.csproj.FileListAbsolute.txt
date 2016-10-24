@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\GenericPoint\bin\Debug\GenericPoint.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\GenericPoint\bin\Debug\GenericPoint.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\GenericPoint\bin\Debug\GenericPoint.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\GenericPoint\obj\Debug\GenericPoint.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\GenericPoint\obj\Debug\GenericPoint.pdb

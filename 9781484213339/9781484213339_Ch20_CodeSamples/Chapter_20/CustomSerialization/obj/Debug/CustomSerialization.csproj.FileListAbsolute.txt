@@ -1,0 +1,4 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\CustomSerialization\obj\Debug\CustomSerialization.pdb

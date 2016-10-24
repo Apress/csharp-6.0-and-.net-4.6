@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadPoolApp\bin\Debug\ThreadPoolApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadPoolApp\obj\x86\Debug\ThreadPoolApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_19\ThreadPoolApp\obj\x86\Debug\ThreadPoolApp.pdb

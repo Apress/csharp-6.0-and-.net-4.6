@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

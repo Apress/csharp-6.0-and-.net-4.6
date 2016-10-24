@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojResolveAssemblyReference.cache

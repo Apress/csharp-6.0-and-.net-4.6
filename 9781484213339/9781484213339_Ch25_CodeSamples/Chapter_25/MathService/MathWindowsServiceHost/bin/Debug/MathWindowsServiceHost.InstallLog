@@ -1,0 +1,29 @@
+﻿Installing assembly 'C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Installing service MathService...
+Creating EventLog source MathService in log Application...
+Rolling back assembly 'C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Restoring event log to previous state for source MathService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+Installing service MathService...
+Service MathService has been successfully installed.
+Creating EventLog source MathService in log Application...
+Committing assembly 'C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.InstallLog
+   assemblypath = C:\MyBooks\C# Book (7th ed)\Code\Chapter_25\MathService\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe

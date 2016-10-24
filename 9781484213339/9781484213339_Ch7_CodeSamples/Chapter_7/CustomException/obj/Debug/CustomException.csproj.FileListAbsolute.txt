@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\bin\Debug\CustomException.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\bin\Debug\CustomException.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\bin\Debug\CustomException.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\obj\Debug\CustomException.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\obj\Debug\CustomException.pdb

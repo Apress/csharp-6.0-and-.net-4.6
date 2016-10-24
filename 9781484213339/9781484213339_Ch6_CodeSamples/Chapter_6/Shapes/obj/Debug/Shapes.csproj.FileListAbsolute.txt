@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\bin\Debug\Shapes.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\bin\Debug\Shapes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\bin\Debug\Shapes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\obj\Debug\Shapes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\obj\Debug\Shapes.pdb

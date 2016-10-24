@@ -1,0 +1,76 @@
+﻿@using AutoLotDAL.Models
+@model IEnumerable<AutoLotDAL.Models.Inventory>
+
+@{
+    ViewBag.Title = "Index";
+    //Layout = "~/Views/Shared/_LayoutNew.cshtml";
+}
+@helper ShowInventory(Inventory item)
+{
+    @item.Make<text>-</text>@item.Color<text>(</text>@item.PetName<text>)</text>
+}
+@functions
+    {
+    public IList<Inventory> SortCars(IList<Inventory> cars)
+    {
+        var list = from s in cars orderby s.PetName select s;
+        return list.ToList();
+
+    }
+}
+@{
+    Func<dynamic, object> b = @<strong>@item</strong>;
+}
+@*This will be bold: @b("Foo")*@
+<div class="well well-sm"><h1>Available Inventory</h1></div>
+<p>
+@*    @Html.ActionLink("Create New", "Create")*@
+    <a href="@Url.Action("Create")">
+        <span class="glyphicon glyphicon-plus"></span>&nbsp;Create a new Car
+    </a>
+</p>
+<table class="table table-striped table-bordered table-hover table-responsive">
+    <caption>Vehicle List</caption>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Make)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PetName)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in SortCars(Model.ToList()))
+    {
+        @*@ShowInventory(item)*@
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Make)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PetName)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.CarId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CarId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CarId })*@
+
+                <a href="@Url.Action("Edit", new {id = item.CarId})"><span class="glyphicon glyphicon-edit"></span>&nbsp;Edit</a>
+                &nbsp;|&nbsp;<a href="@Url.Action("Details", new {id = item.CarId})"><span class="glyphicon glyphicon-list-alt"></span>&nbsp;Details</a>
+                &nbsp;|&nbsp;<a href="@Url.Action("Delete", new {id = item.CarId})"><span class="glyphicon glyphicon-trash"></span>&nbsp;Delete</a>
+
+
+                @*<span class="glyphicon glyphicon-list">*@
+
+            </td>
+        </tr>
+    }
+
+</table>
+

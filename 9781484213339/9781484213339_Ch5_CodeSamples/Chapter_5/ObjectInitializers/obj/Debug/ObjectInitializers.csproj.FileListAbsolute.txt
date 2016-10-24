@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache

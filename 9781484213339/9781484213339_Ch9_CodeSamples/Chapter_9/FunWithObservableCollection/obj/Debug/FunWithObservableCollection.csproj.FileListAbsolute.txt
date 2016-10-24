@@ -1,0 +1,5 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb

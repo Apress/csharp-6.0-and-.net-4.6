@@ -1,0 +1,6 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.pdb

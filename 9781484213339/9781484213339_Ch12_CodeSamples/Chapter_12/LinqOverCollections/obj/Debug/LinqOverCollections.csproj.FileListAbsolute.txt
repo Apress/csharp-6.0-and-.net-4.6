@@ -1,0 +1,10 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverCollections\bin\Debug\LinqOverCollections.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverCollections\bin\Debug\LinqOverCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverCollections\bin\Debug\LinqOverCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverCollections\obj\Debug\LinqOverCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverCollections\obj\Debug\LinqOverCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverCollections\bin\Debug\LinqOverCollections.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverCollections\obj\Debug\LinqOverCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverCollections\obj\Debug\LinqOverCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverCollections\bin\Debug\LinqOverCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverCollections\bin\Debug\LinqOverCollections.pdb
