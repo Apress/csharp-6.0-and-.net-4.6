@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*C# 6.0 and the .NET 4.6 Framework*](http://www.apress.com/9781484213339) by ANDREW TROELSEN and Philip Japikse (Apress, 2015).
+This repository accompanies [*C# 6.0 and the .NET 4.6 Framework*](http://www.apress.com/9781484213339) by Andrew Troelsen and Philip Japikse (Apress, 2015).
 
 ![Cover image](9781484213339.jpg)
 
