@@ -26,8 +26,8 @@ namespace AsyncCallbackDelegate
             // Assume other work is performed here...
             while (!isDone)
             {
-                Thread.Sleep(1000);
                 Console.WriteLine("Working....");
+                Thread.Sleep(1000);
             }
 
             Console.ReadLine();
