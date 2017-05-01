@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 
 namespace Notifications.Models
 {
-    public partial class Inventory : INotifyPropertyChanged
+    public class Inventory : INotifyPropertyChanged
     {
 
         private int _carId;
@@ -57,7 +57,8 @@ namespace Notifications.Models
         }
 
         private bool _isChanged;
-        public bool IsChanged {
+        public bool IsChanged
+        {
             get { return _isChanged;}
             set
             {
@@ -69,13 +70,14 @@ namespace Notifications.Models
 
         public event PropertyChangedEventHandler PropertyChanged;
 
-        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = "")
+        internal void OnPropertyChanged([CallerMemberName] string propertyName = "")
         {
             if (propertyName != nameof(IsChanged))
             {
                 IsChanged = true;
             }
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+            //PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(string.Empty));
         }
     }
 }

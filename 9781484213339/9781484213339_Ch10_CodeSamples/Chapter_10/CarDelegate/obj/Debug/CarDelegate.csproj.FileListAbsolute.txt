@@ -3,3 +3,9 @@ C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarDelegate\bin\Debug\CarDelegate.ex
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarDelegate\bin\Debug\CarDelegate.pdb
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarDelegate\obj\Debug\CarDelegate.exe
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\CarDelegate\obj\Debug\CarDelegate.pdb
+C:\GitHub\csharp-6.0-and-.net-4.6\9781484213339\9781484213339_Ch10_CodeSamples\Chapter_10\CarDelegate\bin\Debug\CarDelegate.exe.config
+C:\GitHub\csharp-6.0-and-.net-4.6\9781484213339\9781484213339_Ch10_CodeSamples\Chapter_10\CarDelegate\bin\Debug\CarDelegate.exe
+C:\GitHub\csharp-6.0-and-.net-4.6\9781484213339\9781484213339_Ch10_CodeSamples\Chapter_10\CarDelegate\bin\Debug\CarDelegate.pdb
+C:\GitHub\csharp-6.0-and-.net-4.6\9781484213339\9781484213339_Ch10_CodeSamples\Chapter_10\CarDelegate\obj\Debug\CarDelegate.csprojResolveAssemblyReference.cache
+C:\GitHub\csharp-6.0-and-.net-4.6\9781484213339\9781484213339_Ch10_CodeSamples\Chapter_10\CarDelegate\obj\Debug\CarDelegate.exe
+C:\GitHub\csharp-6.0-and-.net-4.6\9781484213339\9781484213339_Ch10_CodeSamples\Chapter_10\CarDelegate\obj\Debug\CarDelegate.pdb

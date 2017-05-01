@@ -88,6 +88,7 @@ namespace MVVM.Models
                         errors = GetErrorsFromAnnotations(nameof(PetName), PetName);
                         if (errors != null && errors.Length != 0)
                         {
+                            ClearErrors(nameof(PetName));
                             AddErrors(nameof(PetName), errors);
                             hasError = true;
                         }

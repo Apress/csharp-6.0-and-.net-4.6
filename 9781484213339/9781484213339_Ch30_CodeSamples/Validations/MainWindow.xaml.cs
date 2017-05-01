@@ -23,7 +23,7 @@ namespace Validations
             cboCars.ItemsSource = _cars;
         }
 
-        private void cmdChangeColor_Click(object sender, RoutedEventArgs e)
+        private void btnChangeColor_Click(object sender, RoutedEventArgs e)
         {
             var car = _cars?.FirstOrDefault(x => x.CarId == ((Inventory)cboCars.SelectedItem)?.CarId);
             if (car != null)
@@ -32,10 +32,15 @@ namespace Validations
             }
 
         }
-        private void cmdAddCar_Click(object sender, RoutedEventArgs e)
+        private void btnAddCar_Click(object sender, RoutedEventArgs e)
         {
             var maxCount = _cars?.Max(x => x.CarId) ?? 0;
             _cars?.Add(new Inventory { CarId = ++maxCount, Color = "Yellow", Make = "VW", PetName = "Birdie", IsChanged = false });
+        }
+
+        private void btnRemoveCar_Click(object sender, RoutedEventArgs e)
+        {
+            _cars.RemoveAt(0);
         }
     }
 }

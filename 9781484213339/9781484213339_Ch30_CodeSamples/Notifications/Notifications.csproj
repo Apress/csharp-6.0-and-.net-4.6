@@ -70,6 +70,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\InventoryList.cs" />
     <Compile Include="Models\Inventory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

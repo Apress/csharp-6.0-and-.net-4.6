@@ -30,11 +30,15 @@ namespace Validations.Models
             {
                 if (value == _make) return;
                 _make = value;
-                //if (string.IsNullOrEmpty(_make))
-                //{
-                //    throw new InvalidDataException();
-                //}
-                OnPropertyChanged();
+                if (Make == "ModelT")
+                {
+                    AddError(nameof(Make), "Too Old");
+                }
+                else
+                {
+                    ClearErrors(nameof(Make));
+                }
+                OnPropertyChanged(nameof(Make));
                 //OnPropertyChanged(nameof(Color));
             }
         }
@@ -48,7 +52,7 @@ namespace Validations.Models
             {
                 if (value == _color) return;
                 _color = value;
-                OnPropertyChanged();
+                OnPropertyChanged(nameof(Color));
                 //OnPropertyChanged(nameof(Make));
             }
         }
@@ -86,8 +90,8 @@ namespace Validations.Models
             {
                 IsChanged = true;
             }
-           PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-           //PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(string.Empty));
+           //PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+           PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(string.Empty));
         }
 
     }

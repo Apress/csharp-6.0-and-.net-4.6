@@ -1,4 +1,5 @@
-﻿using Commands.Cmds.BaseClasses;
+﻿using System;
+using System.Windows.Input;
 using Commands.Models;
 
 namespace Commands.Cmds
@@ -13,4 +14,5 @@ namespace Commands.Cmds
         public override bool CanExecute(object parameter) => 
             (parameter as Inventory) != null;
     }
+
 }

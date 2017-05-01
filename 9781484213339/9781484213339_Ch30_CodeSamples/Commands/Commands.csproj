@@ -60,20 +60,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="Cmds\BaseClasses\RelayCommandT.cs" />
+    <Compile Include="Cmds\RemoveCarCommand.cs" />
+    <Compile Include="Cmds\AddCarCommand.cs" />
     <Compile Include="Cmds\ChangeColorCommand.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Cmds\BaseClasses\RelayCommand.cs" />
-    <Compile Include="Cmds\BaseClasses\CommandBase.cs" />
+    <Compile Include="Cmds\CommandBase.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\EntityBase.cs" />
+    <Compile Include="Models\InventoryList.cs" />
     <Compile Include="Models\Inventory.cs" />
     <Compile Include="Models\InventoryPartial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">

@@ -41,7 +41,7 @@ namespace CarDelegate
             if (listOfHandlers == null)
                 listOfHandlers = methodToCall;
             else
-                Delegate.Combine(listOfHandlers, methodToCall);
+                listOfHandlers = Delegate.Combine(listOfHandlers, methodToCall) as CarEngineHandler;
         }
 
         public void UnRegisterWithCarEngine( CarEngineHandler methodToCall )
